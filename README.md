@@ -18,13 +18,14 @@ A project to create a real time chat application in Swift 5 using Firebase.
 
 ## Screenshots
 
-![Simulator Screen Shot - iPhone 11 - 2021-06-03 at 16 26 01](https://user-images.githubusercontent.com/70209068/121034415-0264d700-c77b-11eb-8eca-ae3c5ba2f923.png)
-![Simulator Screen Shot - iPhone 11 - 2021-06-03 at 16 25 56](https://user-images.githubusercontent.com/70209068/121034497-0e509900-c77b-11eb-9974-f26cb4754588.png)
-![Simulator Screen Shot - iPhone 11 - 2021-06-03 at 16 26 13](https://user-images.githubusercontent.com/70209068/121034528-127cb680-c77b-11eb-9c07-6f6fb943f857.png)
-![Simulator Screen Shot - iPhone 11 - 2021-06-03 at 16 25 16](https://user-images.githubusercontent.com/70209068/121034561-190b2e00-c77b-11eb-879b-cc960d3aadff.png)
-![Simulator Screen Shot - iPhone 11 - 2021-06-03 at 16 25 02](https://user-images.githubusercontent.com/70209068/121034650-29bba400-c77b-11eb-9ceb-98d1f690f629.png)
-![Simulator Screen Shot - iPhone 11 - 2021-06-02 at 13 23 41](https://user-images.githubusercontent.com/70209068/121034721-3b9d4700-c77b-11eb-9eb1-778a40e24258.png)
-![Simulator Screen Shot - iPhone 11 - 2021-06-02 at 13 23 00](https://user-images.githubusercontent.com/70209068/121034761-45bf4580-c77b-11eb-8c83-bdc855ad4d62.png)
-![Simulator Screen Shot - iPhone 11 - 2021-06-03 at 16 25 16](https://user-images.githubusercontent.com/70209068/121034780-4b1c9000-c77b-11eb-8f3f-fdc54dd53b36.png)
-![Simulator Screen Shot - iPhone 11 - 2021-06-03 at 16 25 39](https://user-images.githubusercontent.com/70209068/121034814-52dc3480-c77b-11eb-96b8-632386653e71.png)
-![Simulator Screen Shot - iPhone 11 - 2021-06-02 at 13 23 57](https://user-images.githubusercontent.com/70209068/121034910-68515e80-c77b-11eb-93a2-4bded4a8ca64.png)
+![0](https://user-images.githubusercontent.com/70209068/121038119-06462880-c77e-11eb-83d7-7ba72a44c8b7.png)
+![1](https://user-images.githubusercontent.com/70209068/121038148-0c3c0980-c77e-11eb-87ae-c5d05d23d78b.png)
+![2](https://user-images.githubusercontent.com/70209068/121038181-152cdb00-c77e-11eb-9d96-1af280d455e2.png)
+![3](https://user-images.githubusercontent.com/70209068/121038226-1d851600-c77e-11eb-9e03-f5adae7e77ea.png)
+![4](https://user-images.githubusercontent.com/70209068/121038271-2675e780-c77e-11eb-8717-3184dccf7a36.png)
+![5](https://user-images.githubusercontent.com/70209068/121038279-28d84180-c77e-11eb-976b-702631eff861.png)
+![6](https://user-images.githubusercontent.com/70209068/121038290-2bd33200-c77e-11eb-85e9-8925d890c043.png)
+![7](https://user-images.githubusercontent.com/70209068/121038306-2e358c00-c77e-11eb-8b7b-f58bdcd44e66.png)
+![8](https://user-images.githubusercontent.com/70209068/121038333-35f53080-c77e-11eb-9895-e2da11e88d00.png)
+![9](https://user-images.githubusercontent.com/70209068/121038361-3c83a800-c77e-11eb-9b21-ca1546ae9cea.png)
+
